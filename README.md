@@ -63,6 +63,7 @@ Browse the [online documentation here.](http://bulma.io/documentation/overview/s
 * iTemplate: [http://itemplate.ga/](http://itemplate.ga/dashboard.html)
 * Vue Admin powered by Bulma: https://github.com/vue-bulma/vue-admin
 * Bulmaswatch — Free themes for Bulma: https://github.com/jenil/bulmaswatch
+* Re-bulma – Bulma components build with React: https://github.com/bokuweb/re-bulma
 
 ## Copyright and license
 
